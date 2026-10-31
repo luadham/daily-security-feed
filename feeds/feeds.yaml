@@ -6,6 +6,7 @@ feeds:
   - http://feeds.feedburner.com/GynvaelColdwindPL
 
   # --- Independent Researchers ---
+  - https://blog.orange.tw/atom.xml
   - https://www.uncommonengineer.com/docs/rss.xml
   - https://rayhan0x01.github.io/feed.xml
   - https://0xash.io/feed.xml
@@ -228,6 +229,7 @@ feeds:
   - https://www.outflank.nl/feed/
   - https://www.praetorian.com/feed/
   - https://www.whitecyberduck.com/rss.xml
+
 
   # --- Security Companies / Labs ---
   - https://advisory.splunk.com/feed.xml
