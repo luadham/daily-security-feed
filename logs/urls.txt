@@ -1591,3 +1591,4 @@
 [2026-10-31] https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/
 [2026-10-31] https://blog.includesecurity.com/2026/10/abliterated-models-in-appsec-pentesting/
 [2026-10-31] https://0xdf.gitlab.io/2026/10/31/htb-makesense.html
+[2026-11-01] https://dfir.ch/posts/field_note_mha/
