@@ -4,6 +4,7 @@ feeds:
   - http://feeds.feedburner.com/blogspot/ofozM
   - http://feeds.feedburner.com/GoogleOnlineSecurityBlog
   - http://feeds.feedburner.com/GynvaelColdwindPL
+  - http://h1.nobbd.de/reports_rss.xml
 
   # --- Independent Researchers ---
   - https://blog.orange.tw/atom.xml
