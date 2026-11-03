@@ -1592,3 +1592,13 @@
 [2026-10-31] https://blog.includesecurity.com/2026/10/abliterated-models-in-appsec-pentesting/
 [2026-10-31] https://0xdf.gitlab.io/2026/10/31/htb-makesense.html
 [2026-11-01] https://dfir.ch/posts/field_note_mha/
+[2026-11-03] https://a13xp0p0v.tech/2026/11/02/CVE-2026-31695.html
+[2026-11-03] https://awssecuritydigest.com/past-issues/aws-security-digest-285
+[2026-11-03] https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/
+[2026-11-03] https://www.datadoghq.com/blog/datadog-electron-sdk/
+[2026-11-03] https://www.datadoghq.com/blog/rum-managed-archive/
+[2026-11-03] https://www.datadoghq.com/blog/export-pipelines/
+[2026-11-03] https://www.datadoghq.com/blog/monitor-native-apps-datadog-rum/
+[2026-11-03] https://www.datadoghq.com/blog/datadog-anthropic-claude-marketplace/
+[2026-11-03] https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/
+[2026-11-03] https://www.wiz.io/blog/soc-alerts-red-and-blue-agents

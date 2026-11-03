@@ -67,7 +67,19 @@
     "https://www.wiz.io/blog/github-actions-security-pwn-request-reckoning": "2026-10-31",
     "https://projectzero.google/2026/10/fuzzing-v-AI.html": "2026-10-31",
     "https://0xdf.gitlab.io/2026/10/31/htb-makesense.html": "2026-10-31",
-    "https://dfir.ch/posts/field_note_mha/": "2026-11-01"
+    "https://dfir.ch/posts/field_note_mha/": "2026-11-01",
+    "https://a13xp0p0v.tech/2026/11/02/CVE-2026-31695.html": "2026-11-03",
+    "https://fortbridge.co.uk/research/cve-2026-111497-wordpress-pingback-rce-reproduction/": "2026-11-03",
+    "https://awssecuritydigest.com/past-issues/aws-security-digest-285": "2026-11-03",
+    "https://detect.fyi/implementing-detection-as-code-as-a-multi-platform-mssp-6518cc5289b4?source=rss----d5fd8f494f6a---4": "2026-11-03",
+    "https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/": "2026-11-03",
+    "https://www.datadoghq.com/blog/datadog-electron-sdk/": "2026-11-03",
+    "https://www.datadoghq.com/blog/rum-managed-archive/": "2026-11-03",
+    "https://www.datadoghq.com/blog/export-pipelines/": "2026-11-03",
+    "https://www.datadoghq.com/blog/monitor-native-apps-datadog-rum/": "2026-11-03",
+    "https://www.datadoghq.com/blog/datadog-anthropic-claude-marketplace/": "2026-11-03",
+    "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/": "2026-11-03",
+    "https://www.wiz.io/blog/soc-alerts-red-and-blue-agents": "2026-11-03"
   },
-  "last_updated": "2026-11-01T23:25:13.788145+00:00"
+  "last_updated": "2026-11-03T02:04:02.054811+00:00"
 }
