@@ -79,7 +79,13 @@
     "https://www.datadoghq.com/blog/monitor-native-apps-datadog-rum/": "2026-11-03",
     "https://www.datadoghq.com/blog/datadog-anthropic-claude-marketplace/": "2026-11-03",
     "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/": "2026-11-03",
-    "https://www.wiz.io/blog/soc-alerts-red-and-blue-agents": "2026-11-03"
+    "https://www.wiz.io/blog/soc-alerts-red-and-blue-agents": "2026-11-03",
+    "https://neodyme.io/en/blog/puppet_rce/": "2026-11-04",
+    "https://schaerli.org/weblog/7-filen//": "2026-11-04",
+    "https://trustedsec.com/blog/the-quiet-phase-active-directory-group-enumeration": "2026-11-04",
+    "https://www.datadoghq.com/blog/fireworks-ai-integration/": "2026-11-04",
+    "https://www.wiz.io/blog/green-agent-agentic-remediation": "2026-11-04",
+    "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/": "2026-11-04"
   },
-  "last_updated": "2026-11-03T02:04:02.054811+00:00"
+  "last_updated": "2026-11-04T00:28:02.217823+00:00"
 }
