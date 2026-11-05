@@ -3,7 +3,7 @@ name: daily-security-feed-bot
 on:
   schedule:
     - cron: "0 23 * * *"
-      timezone: "Asia/Amman"
+      timezone: "Africa/Cairo"
   workflow_dispatch:
     inputs:
       max_articles:
