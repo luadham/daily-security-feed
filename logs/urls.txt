@@ -1614,3 +1614,11 @@
 [2026-11-05] https://www.datadoghq.com/blog/migrate-queries-alerts-dashboards-to-datadog/
 [2026-11-05] https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt
 [2026-11-05] https://whiteknightlabs.com/2026/11/04/exploiting-php-foundational-vulnerabilities/
+[2026-11-06] https://schaerli.org/weblog/7-filen/
+[2026-11-06] https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/
+[2026-11-06] https://shellsharks.com/scrolls/scroll/2026-11-05
+[2026-11-06] https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/
+[2026-11-06] https://www.blackhillsinfosec.com/core-skills-in-age-of-ai/
+[2026-11-06] https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/
+[2026-11-06] https://www.datadoghq.com/blog/manage-kubernetes-observability-with-datadoginstrumentation/
+[2026-11-06] https://www.datadoghq.com/blog/highlights-from-oracle-ai-world-2026/
