@@ -102,7 +102,17 @@
     "https://www.blackhillsinfosec.com/core-skills-in-age-of-ai/": "2026-11-06",
     "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/": "2026-11-06",
     "https://www.datadoghq.com/blog/manage-kubernetes-observability-with-datadoginstrumentation/": "2026-11-06",
-    "https://www.datadoghq.com/blog/highlights-from-oracle-ai-world-2026/": "2026-11-06"
+    "https://www.datadoghq.com/blog/highlights-from-oracle-ai-world-2026/": "2026-11-06",
+    "https://fortbridge.co.uk/research/cve-2026-114612-litellm-proxy-admin-rce/": "2026-11-07",
+    "https://shellsharks.com/scrolls/scroll/2026-11-06": "2026-11-07",
+    "https://starlabs.sg/blog/2026/11-groklem-an-android-banker-that-rents-grok-to-read-your-texts/": "2026-11-07",
+    "https://www.antitree.com/2026/11/cardio-driven-development/": "2026-11-07",
+    "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/": "2026-11-07",
+    "https://salt.security/blog/i-read-gartner-r-s-2026-hype-cycle-for-secure-ai-tm-here-are-7-takeaways-every-ciso-should-know": "2026-11-07",
+    "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/": "2026-11-07",
+    "https://falconforce.nl/dissecting-werfault/": "2026-11-07",
+    "https://www.aquasec.com/blog/integrate-aquasec-and-jenkins-to-stop-unsafe-images-before-they-run/": "2026-11-07",
+    "https://www.datadoghq.com/blog/prompt-cache-investigation-ccm-agent-observability/": "2026-11-07"
   },
-  "last_updated": "2026-11-06T01:58:19.393902+00:00"
+  "last_updated": "2026-11-07T00:43:44.621918+00:00"
 }
