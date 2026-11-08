@@ -1631,3 +1631,6 @@
 [2026-11-07] https://falconforce.nl/dissecting-werfault/
 [2026-11-07] https://www.aquasec.com/blog/integrate-aquasec-and-jenkins-to-stop-unsafe-images-before-they-run/
 [2026-11-07] https://www.datadoghq.com/blog/prompt-cache-investigation-ccm-agent-observability/
+[2026-11-08] https://0xdf.gitlab.io/2026/11/07/htb-garfield.html
+[2026-11-08] https://samcurry.net/forgerock
+[2026-11-08] https://samcurry.net/wardogs

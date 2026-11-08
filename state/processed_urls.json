@@ -112,7 +112,10 @@
     "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/": "2026-11-07",
     "https://falconforce.nl/dissecting-werfault/": "2026-11-07",
     "https://www.aquasec.com/blog/integrate-aquasec-and-jenkins-to-stop-unsafe-images-before-they-run/": "2026-11-07",
-    "https://www.datadoghq.com/blog/prompt-cache-investigation-ccm-agent-observability/": "2026-11-07"
+    "https://www.datadoghq.com/blog/prompt-cache-investigation-ccm-agent-observability/": "2026-11-07",
+    "https://0xdf.gitlab.io/2026/11/07/htb-garfield.html": "2026-11-08",
+    "https://samcurry.net/forgerock": "2026-11-08",
+    "https://samcurry.net/wardogs": "2026-11-08"
   },
-  "last_updated": "2026-11-07T00:43:44.621918+00:00"
+  "last_updated": "2026-11-08T00:10:05.207464+00:00"
 }
