@@ -1634,3 +1634,4 @@
 [2026-11-08] https://0xdf.gitlab.io/2026/11/07/htb-garfield.html
 [2026-11-08] https://samcurry.net/forgerock
 [2026-11-08] https://samcurry.net/wardogs
+[2026-11-09] https://luemmelsec.github.io/AI-Slop-Makes-The-World-Stop/
