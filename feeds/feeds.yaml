@@ -1,5 +1,6 @@
 feeds:
   # --- Personal / General Security ---
+  - https://seclab.cyshield.com/index.xml
   - http://antirez.com/rss
   - http://feeds.feedburner.com/blogspot/ofozM
   - http://feeds.feedburner.com/GoogleOnlineSecurityBlog
