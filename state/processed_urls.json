@@ -155,7 +155,18 @@
     "https://www.blackhillsinfosec.com/log-analysis-guide/": "2026-11-12",
     "https://www.datadoghq.com/blog/aws-account-management/": "2026-11-12",
     "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp": "2026-11-12",
-    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability": "2026-11-12"
+    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability": "2026-11-12",
+    "https://blog.doyensec.com/2026/11/12/protospector.html": "2026-11-13",
+    "https://blog.coredump.cx/p/it-came-from-the-token-void": "2026-11-13",
+    "https://blog.coredump.cx/p/ontology-2-wish-you-were-here": "2026-11-13",
+    "https://rtx.meta.security/exploitation/2026/11/09/CVE-2026-65339.html": "2026-11-13",
+    "https://www.praetorian.com/blog/cve-2026-119618/": "2026-11-13",
+    "https://blog.nviso.eu/2026/11/12/breaking-the-semantic-cache-a-litellm-case-study-cve-2026-89032/": "2026-11-13",
+    "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/": "2026-11-13",
+    "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/": "2026-11-13",
+    "https://www.sonarsource.com/blog/sonar-brings-vulnerability-intelligence-to-openai-daybreak/": "2026-11-13",
+    "https://www.sonarsource.com/blog/state-of-code-developer-survey-report-2027/": "2026-11-13",
+    "https://www.wiz.io/blog/aspm-ai-era-pt-3-fixing-risk-code-speed": "2026-11-13"
   },
-  "last_updated": "2026-11-12T02:09:09.210232+00:00"
+  "last_updated": "2026-11-13T01:43:02.677690+00:00"
 }
