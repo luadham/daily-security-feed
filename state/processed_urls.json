@@ -166,7 +166,13 @@
     "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/": "2026-11-13",
     "https://www.sonarsource.com/blog/sonar-brings-vulnerability-intelligence-to-openai-daybreak/": "2026-11-13",
     "https://www.sonarsource.com/blog/state-of-code-developer-survey-report-2027/": "2026-11-13",
-    "https://www.wiz.io/blog/aspm-ai-era-pt-3-fixing-risk-code-speed": "2026-11-13"
+    "https://www.wiz.io/blog/aspm-ai-era-pt-3-fixing-risk-code-speed": "2026-11-13",
+    "https://fortbridge.co.uk/research/cve-2026-114607-better-auth-oauth-state-account-takeover/": "2026-11-14",
+    "https://blog.nviso.eu/2026/11/13/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-3-validation-and-future-possibilities/": "2026-11-14",
+    "https://blog.talosintelligence.com/artex-and-beyond/": "2026-11-14",
+    "https://www.datadoghq.com/blog/cloud-siem-investigate-user-entity-risks/": "2026-11-14",
+    "https://www.wiz.io/blog/inside-green-agent-investigation": "2026-11-14",
+    "https://projectzero.google/2026/11/disclosure-policy.html": "2026-11-14"
   },
-  "last_updated": "2026-11-13T01:43:02.677690+00:00"
+  "last_updated": "2026-11-14T01:18:16.503118+00:00"
 }
