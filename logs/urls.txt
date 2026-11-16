@@ -1688,3 +1688,4 @@
 [2026-11-14] https://projectzero.google/2026/11/disclosure-policy.html
 [2026-11-15] https://0xdf.gitlab.io/2026/11/14/htb-nimbus.html
 [2026-11-15] https://blog.coredump.cx/p/spreadsheets-and-other-models-of
+[2026-11-16] https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe/
