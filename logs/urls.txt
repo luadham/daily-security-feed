@@ -1689,3 +1689,12 @@
 [2026-11-15] https://0xdf.gitlab.io/2026/11/14/htb-nimbus.html
 [2026-11-15] https://blog.coredump.cx/p/spreadsheets-and-other-models-of
 [2026-11-16] https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe/
+[2026-11-17] https://ii4gsp.github.io/libreoffice-rce/
+[2026-11-17] https://awssecuritydigest.com/past-issues/aws-security-digest-287
+[2026-11-17] https://metalbear.com/mirrord/
+[2026-11-17] https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/
+[2026-11-17] https://salt.security/blog/australias-legacy-stocktake-needs-to-count-what-ai-agents-can-reach
+[2026-11-17] https://www.wiz.io/blog/introducing-wiz-ai-security-agent
+[2026-11-17] https://www.datadoghq.com/blog/check-ec2-workloads-imdsv2-readiness/
+[2026-11-17] https://www.datadoghq.com/blog/auto-processing-log-pipelines/
+[2026-11-17] https://www.sonarsource.com/blog/claude-fable-5-family-evaluation/
