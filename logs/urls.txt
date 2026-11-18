@@ -1718,3 +1718,16 @@
 [2026-11-18] https://www.datadoghq.com/blog/datadog-observability-pipelines-gartner-magic-quadrant-2026/
 [2026-11-18] https://www.datadoghq.com/blog/azure-ai-monitoring-ignite-2026/
 [2026-11-18] https://www.sonarsource.com/blog/ai-code-verification-has-to-scale-past-the-human-reviewer/
+[2026-11-18] https://eaton-works.com/2026/11/18/credit-nirvana-hack/
+[2026-11-18] https://blog.syss.com/posts/wkhtmltopdf-rce/
+[2026-11-18] https://advisory.splunk.com/advisories/SVD-2026-1102
+[2026-11-18] https://certitude.consulting/blog/en/certitude-gets-access-to-anthropics-mythos-ai-model-for-offensive-security-testing/
+[2026-11-18] https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/
+[2026-11-18] https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/
+[2026-11-18] https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals
+[2026-11-18] https://www.datadoghq.com/blog/datadog-byoc-minio-aistor/
+[2026-11-18] https://www.datadoghq.com/blog/datadogs-agentic-vulnerability-hunting-system/
+[2026-11-18] https://www.datadoghq.com/blog/fine-tuning-patterns-baseten/
+[2026-11-18] https://www.sonarsource.com/blog/java4shell-find-affected-java-in-your-container-images/
+[2026-11-18] https://www.sonarsource.com/blog/why-you-need-a-cbom/
+[2026-11-18] https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
