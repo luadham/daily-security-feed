@@ -187,7 +187,27 @@
     "https://www.wiz.io/blog/introducing-wiz-ai-security-agent": "2026-11-17",
     "https://www.datadoghq.com/blog/check-ec2-workloads-imdsv2-readiness/": "2026-11-17",
     "https://www.datadoghq.com/blog/auto-processing-log-pipelines/": "2026-11-17",
-    "https://www.sonarsource.com/blog/claude-fable-5-family-evaluation/": "2026-11-17"
+    "https://www.sonarsource.com/blog/claude-fable-5-family-evaluation/": "2026-11-17",
+    "https://blog.syss.com/posts/browser-swapping-fragment/": "2026-11-18",
+    "https://sansec.io/research/rootways-authorize-net-apple-pay-ssrf": "2026-11-18",
+    "https://research.openanalysis.net/hdgfx/fileinfector/worm/usb/polymorphic/config/2026/11/17/hdgfx-infector.html": "2026-11-18",
+    "https://shellsharks.com/scrolls/scroll/2026-11-17": "2026-11-18",
+    "https://shellsharks.com/knowvember": "2026-11-18",
+    "https://blog.nviso.eu/2026/11/17/reducing-microsoft-sentinel-costs-without-compromising-detection-part-3-the-dns-quest/": "2026-11-18",
+    "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/": "2026-11-18",
+    "https://www.aquasec.com/blog/java4shell-vulnerability-how-should-security-teams-identify-and-reduce-exposure/": "2026-11-18",
+    "https://www.aquasec.com/blog/ironworm-ebpf-rootkit-ghostmap-linux/": "2026-11-18",
+    "https://trustedsec.com/blog/hacking-the-my-arcade-contra-pocket-player-part-ii": "2026-11-18",
+    "https://securitylabs.datadoghq.com/articles/java4shell-remote-code-execution-in-openjdk-cve-2026-114938/": "2026-11-18",
+    "https://blog.talosintelligence.com/java4shell/": "2026-11-18",
+    "https://salt.security/blog/how-to-secure-ai-generated-code": "2026-11-18",
+    "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk": "2026-11-18",
+    "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi": "2026-11-18",
+    "https://www.datadoghq.com/blog/engineering/how-we-scaled-metrics-aggregation/": "2026-11-18",
+    "https://www.datadoghq.com/blog/adx-observability-pipelines/": "2026-11-18",
+    "https://www.datadoghq.com/blog/datadog-observability-pipelines-gartner-magic-quadrant-2026/": "2026-11-18",
+    "https://www.datadoghq.com/blog/azure-ai-monitoring-ignite-2026/": "2026-11-18",
+    "https://www.sonarsource.com/blog/ai-code-verification-has-to-scale-past-the-human-reviewer/": "2026-11-18"
   },
-  "last_updated": "2026-11-17T03:26:43.781005+00:00"
+  "last_updated": "2026-11-18T02:46:09.726389+00:00"
 }
