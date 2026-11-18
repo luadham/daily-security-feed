@@ -2,14 +2,14 @@ name: daily-security-feed-bot
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 10 * * *"
       timezone: "Africa/Cairo"
   workflow_dispatch:
     inputs:
       max_articles:
         description: "Max articles to process per run (default: 30)"
         required: false
-        default: "30"
+        default: "100"
 
 permissions:
   contents: write
