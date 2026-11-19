@@ -223,7 +223,23 @@
     "https://www.datadoghq.com/blog/fine-tuning-patterns-baseten/": "2026-11-18",
     "https://www.sonarsource.com/blog/java4shell-find-affected-java-in-your-container-images/": "2026-11-18",
     "https://www.sonarsource.com/blog/why-you-need-a-cbom/": "2026-11-18",
-    "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities": "2026-11-18"
+    "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities": "2026-11-18",
+    "http://blog.lockboxx.org/2026/11/book-review-chip-war.html": "2026-11-19",
+    "https://neodyme.io/en/blog/drone_hacking_part_2/": "2026-11-19",
+    "https://advisory.splunk.com/advisories/SVD-2026-1111": "2026-11-19",
+    "https://advisory.splunk.com/advisories/SVD-2026-1110": "2026-11-19",
+    "https://advisory.splunk.com/advisories/SVD-2026-1109": "2026-11-19",
+    "https://advisory.splunk.com/advisories/SVD-2026-1108": "2026-11-19",
+    "https://advisory.splunk.com/advisories/SVD-2026-1107": "2026-11-19",
+    "https://www.aquasec.com/blog/nginx-http2-vulnerabilities-affected-images/": "2026-11-19",
+    "https://trustedsec.com/blog/accuracy-through-volume-of-fire": "2026-11-19",
+    "https://salt.security/blog/ai-agents-are-getting-authority-faster-than-leaders-can-govern-it": "2026-11-19",
+    "https://securitylabs.datadoghq.com/articles/entra-access-packages-part-1-privileges/": "2026-11-19",
+    "https://www.blackhillsinfosec.com/threat-hunting-network/": "2026-11-19",
+    "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/": "2026-11-19",
+    "https://www.datadoghq.com/blog/flex-logs-bring-your-own-bucket/": "2026-11-19",
+    "https://www.sonarsource.com/blog/sonarqube-container-scanning-is-now-available/": "2026-11-19",
+    "https://www.sonarsource.com/blog/inside-secretless-analysis/": "2026-11-19"
   },
-  "last_updated": "2026-11-18T19:25:19.461234+00:00"
+  "last_updated": "2026-11-19T17:15:31.545978+00:00"
 }
