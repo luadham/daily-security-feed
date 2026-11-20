@@ -1746,3 +1746,13 @@
 [2026-11-19] https://www.datadoghq.com/blog/flex-logs-bring-your-own-bucket/
 [2026-11-19] https://www.sonarsource.com/blog/sonarqube-container-scanning-is-now-available/
 [2026-11-19] https://www.sonarsource.com/blog/inside-secretless-analysis/
+[2026-11-20] https://dustri.org/b/how-many-phrack-73-articles-used-ai.html
+[2026-11-20] https://www.praetorian.com/blog/breaking-free-a-new-jailbreak-for-the-unitree-go2/
+[2026-11-20] https://advisory.splunk.com/advisories/SVD-2026-1112
+[2026-11-20] https://www.sonarsource.com/blog/automatic-analysis-for-bitbucket-cloud-is-now-available/
+[2026-11-20] https://www.sonarsource.com/blog/oauth-comes-to-the-sonarqube-cloud-mcp-server/
+[2026-11-20] https://www.sonarsource.com/blog/delphi-programming-language/
+[2026-11-20] https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/
+[2026-11-20] https://www.datadoghq.com/blog/observability-pipelines-mcp-server-ai-agents/
+[2026-11-20] https://www.datadoghq.com/blog/lighthouse-audits-rum-synthetic-monitoring/
+[2026-11-20] https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714
