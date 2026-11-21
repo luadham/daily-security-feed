@@ -1756,3 +1756,10 @@
 [2026-11-20] https://www.datadoghq.com/blog/observability-pipelines-mcp-server-ai-agents/
 [2026-11-20] https://www.datadoghq.com/blog/lighthouse-audits-rum-synthetic-monitoring/
 [2026-11-20] https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714
+[2026-11-21] https://0xdf.gitlab.io/2026/11/21/htb-pingpong.html
+[2026-11-21] https://ii4gsp.github.io/iterm2-rce/
+[2026-11-21] https://advisory.splunk.com/advisories/SVD-2026-1113
+[2026-11-21] https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+[2026-11-21] https://www.datadoghq.com/blog/agentic-onboarding/
+[2026-11-21] https://www.datadoghq.com/blog/agentic-reporting-product-analytics/
+[2026-11-21] https://www.datadoghq.com/blog/data-security-posture-management/
