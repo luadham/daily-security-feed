@@ -1763,3 +1763,17 @@
 [2026-11-21] https://www.datadoghq.com/blog/agentic-onboarding/
 [2026-11-21] https://www.datadoghq.com/blog/agentic-reporting-product-analytics/
 [2026-11-21] https://www.datadoghq.com/blog/data-security-posture-management/
+[2026-11-23] https://xaferima.github.io/Medium-personal-post/mobile-security/rasp/pentesting/checklist/2026/11/22/rasp-pentesting-checklist-2026.html
+[2026-11-23] https://computer.rip/2026-11-22-mass-destruction-of-weapons.html
+[2026-11-23] https://awssecuritydigest.com/past-issues/aws-security-digest-288
+[2026-11-23] https://blog.nviso.eu/2026/11/23/artex-fog0003-zqagent-backdoor/
+[2026-11-23] https://blog.nviso.eu/2026/11/23/https-blog-nviso-eu-2026-11-20-artex-fog0003-zqagent-backdoor-de/
+[2026-11-23] https://www.aquasec.com/blog/ai-runtime-security-in-kubernetes-how-do-you-prove-enforcement-works/
+[2026-11-23] https://www.sygnia.co/webinars/detecting-modern-cloud-attacks-why-traditional-detection-falls-short/
+[2026-11-23] https://salt.security/blog/the-prompt-is-the-new-front-door-securing-the-full-agentic-path-on-aws
+[2026-11-23] https://www.datadoghq.com/blog/simplify-byoc-cluster-operations-with-datadog-operator/
+[2026-11-23] https://www.datadoghq.com/blog/cloud-security-study-learnings-2026/
+[2026-11-23] https://www.datadoghq.com/blog/datadog-siem-gartner-magic-quadrant-2026/
+[2026-11-23] https://whiteknightlabs.com/2026/11/23/amsi-memory-patching-refrain/
+[2026-11-23] https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks
+[2026-11-23] https://projectzero.google/2026/11/virtualbox-process-hardening.html
