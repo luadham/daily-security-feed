@@ -277,7 +277,23 @@
     "https://www.datadoghq.com/blog/datadog-siem-gartner-magic-quadrant-2026/": "2026-11-23",
     "https://whiteknightlabs.com/2026/11/23/amsi-memory-patching-refrain/": "2026-11-23",
     "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks": "2026-11-23",
-    "https://projectzero.google/2026/11/virtualbox-process-hardening.html": "2026-11-23"
+    "https://projectzero.google/2026/11/virtualbox-process-hardening.html": "2026-11-23",
+    "https://seclab.cyshield.com/posts/java4shell-when-a-runtime-optimization-breaks-memory-safety/": "2026-11-24",
+    "https://jakewnuk.com/posts/creating-agentic-infra-3-conceptualizing-agentic-system-harness-design/": "2026-11-24",
+    "https://blog.coredump.cx/p/tranquility": "2026-11-24",
+    "https://shellsharks.com/notes/2026/11/23/duo-thoughts": "2026-11-24",
+    "https://decoder.cloud/2026/11/24/an-8088-640-kb-of-ram-and-a-really-bad-idea/": "2026-11-24",
+    "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/": "2026-11-24",
+    "https://trustedsec.com/blog/fastx-in-a-box": "2026-11-24",
+    "https://www.wiz.io/blog/fedramp-vdr-ver-event-key-takeaways": "2026-11-24",
+    "https://www.wiz.io/blog/wiz-openai-codex-integration": "2026-11-24",
+    "https://www.sonarsource.com/blog/introducing-remediation-campaigns/": "2026-11-24",
+    "https://www.sonarsource.com/blog/how-we-cleared-our-backlog-with-sonarqube-remediation-agent/": "2026-11-24",
+    "https://securitylabs.datadoghq.com/articles/introducing-mitigeddon/": "2026-11-24",
+    "https://cyb3rops.medium.com/the-age-of-defensive-minimalism-b882c2c7144c?source=rss-2fdc032a69b3------2": "2026-11-24",
+    "https://www.datadoghq.com/blog/aws-service-quotas-monitoring-datadog/": "2026-11-24",
+    "https://www.datadoghq.com/blog/find-ec2-spot-savings-with-datadog/": "2026-11-24",
+    "https://www.datadoghq.com/blog/bits-maintenance/": "2026-11-24"
   },
-  "last_updated": "2026-11-23T20:03:02.572091+00:00"
+  "last_updated": "2026-11-24T19:30:20.784254+00:00"
 }
