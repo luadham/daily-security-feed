@@ -1792,3 +1792,12 @@
 [2026-11-24] https://www.datadoghq.com/blog/aws-service-quotas-monitoring-datadog/
 [2026-11-24] https://www.datadoghq.com/blog/find-ec2-spot-savings-with-datadog/
 [2026-11-24] https://www.datadoghq.com/blog/bits-maintenance/
+[2026-11-25] https://0xdf.gitlab.io/cheatsheets/ldap-enum
+[2026-11-25] https://www.praetorian.com/blog/cve-2026-119618-2/
+[2026-11-25] https://unit42.paloaltonetworks.com/ai-threat-horizon/
+[2026-11-25] https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/
+[2026-11-25] https://salt.security/blog/ai-code-security-best-practices
+[2026-11-25] https://www.datadoghq.com/blog/ai/agentic-property-based-testing-with-ephyra/
+[2026-11-25] https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/
+[2026-11-25] https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/
+[2026-11-25] https://www.wiz.io/blog/agentic-offensive-frameworks-intent-ids-artex-cairn
