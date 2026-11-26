@@ -1801,3 +1801,9 @@
 [2026-11-25] https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/
 [2026-11-25] https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/
 [2026-11-25] https://www.wiz.io/blog/agentic-offensive-frameworks-intent-ids-artex-cairn
+[2026-11-26] https://certitude.consulting/blog/en/kids-smartwatches-the-bsi-and-certitude-run-the-security-check/
+[2026-11-26] https://www.sonarsource.com/blog/sonarqube-cloud-supports-github-enterprise-server/
+[2026-11-26] http://blog.quarkslab.com/ill-have-a-raw-json-please-leaking-a-langchain-assistant-through-format-coercion.html
+[2026-11-26] https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/
+[2026-11-26] https://www.wiz.io/blog/introducing-wiz-adr
+[2026-11-26] https://www.wiz.io/blog/what-wiz-agents-are-thankful-for
