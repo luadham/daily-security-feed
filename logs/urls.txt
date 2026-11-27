@@ -1807,3 +1807,7 @@
 [2026-11-26] https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/
 [2026-11-26] https://www.wiz.io/blog/introducing-wiz-adr
 [2026-11-26] https://www.wiz.io/blog/what-wiz-agents-are-thankful-for
+[2026-11-27] https://blog.syss.com/posts/tracerip/
+[2026-11-27] https://positive.security/blog/svdb
+[2026-11-27] https://raesene.github.io/blog/2026/11/27/hack-fixing-k8s-lack-of-cert-revocation/
+[2026-11-27] https://www.datadoghq.com/blog/prioritize-security-findings-crown-jewels/
